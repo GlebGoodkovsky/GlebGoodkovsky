@@ -1,5 +1,4 @@
-<div align="center">
-  # Hi there, I'm Gleb Goodkovsky 👋
+# Hi there, I'm Gleb Goodkovsky 👋
 
 Building secure, intuitive software from the system up. I'm a passionate 17-year-old developer focused on understanding how technology works from the kernel up, driving my interest in software engineering and cybersecurity. My journey through Arch Linux and various projects has cemented my hands-on approach to building robust and secure systems.
 
@@ -53,7 +52,7 @@ I believe in learning by doing. Here are some of the projects I've developed to 
 <!-- Will add more projects as time goes on -->
 
 ---
-
+<!-- these not working for some reason at the moment
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
@@ -61,12 +60,11 @@ I believe in learning by doing. Here are some of the projects I've developed to 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GlebGoodkovsky&layout=compact&theme=dark&line_height=25&hide_border=true&title_color=00BF00&icon_color=00BF00&text_color=E0E0E0&bg_color=0D1117)
   
   <br/>
-  <!-- GitHub Activity Graph (similar to stock chart) -->
   ![GlebGoodkovsky's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GlebGoodkovsky&theme=react-dark&hide_border=true&line=00BF00&point=FFFFFF&title_color=00BF00&area=true&bg_color=0D1117)
 </div>
 
 ---
-
+-->
 ### 📫 Let's Connect!
 
 I'm always open to connecting and exploring opportunities. Feel free to reach out!
