@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://github.com/GlebGoodkovsky">
-    <img src="https://raw.githubusercontent.com/MihirSuryawanshi/MihirSuryawanshi/main/assets/readme-typing-svg.svg" alt="Hi there, I'm Gleb Goodkovsky 👋" width="500"/>
-  </a>
-</div>
+# Hi there, I'm Gleb Goodkovsky 👋
 
 Building secure, intuitive software from the system up. I'm a passionate 17-year-old developer focused on understanding how technology works from the kernel up, driving my interest in software engineering and cybersecurity. My journey through Arch Linux and various projects has cemented my hands-on approach to building robust and secure systems.
 
