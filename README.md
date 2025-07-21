@@ -54,7 +54,6 @@ I believe in learning by doing. Here are some of the projects I've developed:
 
 - **Email:** ggoodkovsky@gmail.com
 - **LinkedIn:** [linkedin.com/in/gleb-goodkovsky](https://www.linkedin.com/in/gleb-goodkovsky)
-- **Full Portfolio:** [YOUR_PORTFOLIO_WEBSITE_URL_HERE](YOUR_PORTFOLIO_WEBSITE_URL_HERE)
-  *(**IMPORTANT:** You need to replace `YOUR_PORTFOLIO_WEBSITE_URL_HERE` with the actual web address of your portfolio website you showed me earlier. For example, if it's hosted as a GitHub Page in your "Portfolio" repo, it might be `https://glebgoodkovsky.github.io/Portfolio` or similar.)*
+- **Full Portfolio:** Coming Soon! 🚧
 
 ---
