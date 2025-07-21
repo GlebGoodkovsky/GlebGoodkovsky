@@ -1,4 +1,8 @@
-# Hi there, I'm Gleb Goodkovsky 👋
+<div align="center">
+  <a href="https://github.com/GlebGoodkovsky">
+    <img src="https://raw.githubusercontent.com/MihirSuryawanshi/MihirSuryawanshi/main/assets/readme-typing-svg.svg" alt="Hi there, I'm Gleb Goodkovsky 👋" width="500"/>
+  </a>
+</div>
 
 Building secure, intuitive software from the system up. I'm a passionate 17-year-old developer focused on understanding how technology works from the kernel up, driving my interest in software engineering and cybersecurity. My journey through Arch Linux and various projects has cemented my hands-on approach to building robust and secure systems.
 
@@ -10,29 +14,29 @@ Here's a glimpse into the languages, platforms, and tools that power my developm
 
 #### 📝 Languages
 - Python 🐍
-- JavaScript (ES6+)
-- HTML5 & CSS3
+- JavaScript (ES6+) 🌐
+- HTML5 & CSS3 🎨
 
 #### 💻 Main Platforms & OS'
-- Linux (Arch, Fedora)🐧
+- Linux (Arch, Fedora) 🐧
 - Windows (10, 11) 🪟
-- Git & GitHub
+- Git & GitHub 🐙
 
 #### ⚙️ Web Development & Productivity
-- **Node.js:** Powering modern development tools and workflows.
-- **Vite:** Leveraging for lightning-fast development with Hot Module Replacement (HMR).
-- **GitHub Actions:** Implementing CI/CD pipelines for automated deployments.
-- **Development Environment:** VS Codium, VS Code, Vim & Neovim for efficient coding.
-- **Automation:** Bash scripting to streamline tasks, manage systems, and automate security workflows.
-- **Knowledge Management:** Obsidian.md as my "second brain" for connecting ideas and documenting learning.
+- **Node.js:** Powering modern development tools and workflows 🚀.
+- **Vite:** Leveraging for lightning-fast development with Hot Module Replacement (HMR) ⚡.
+- **GitHub Actions:** Implementing robust CI/CD pipelines for automated deployments 🧪.
+- **Development Environment:** VS Codium, VS Code, Vim & Neovim for efficient, keyboard-centric coding 💻.
+- **Automation:** Bash scripting to streamline tasks, manage systems, and automate security workflows 🚦.
+- **Knowledge Management:** Obsidian.md as my "second brain" for connecting ideas and documenting learning 🧠.
 
 #### 🧠 AI-Assisted Development
-I strategically integrate multitude of AI models into my workflow to significantly boost efficiency and innovation. I leverage them as a powerful pair programmer for:
-- **Rapid Prototyping & Code Generation:** Quickly scaffolding initial code structures or generating boilerplate.
-- **Advanced Debugging & Problem Solving:** Pinpointing complex issues and brainstorming elegant solutions.
-- **Accelerated Learning & Concept Exploration:** Deepening my understanding of new technologies and architectural patterns.
-- **Code Refactoring & Optimization:** Identifying areas for performance improvements and writing cleaner, more maintainable code.
-This approach allows me to focus on higher-level architectural design and complex problem-solving.
+I strategically integrate a multitude of AI models into my workflow to significantly boost efficiency and innovation. I leverage them as a powerful pair programmer for:
+- **Rapid Prototyping & Code Generation:** Quickly scaffolding initial code structures or generating boilerplate ⚡.
+- **Advanced Debugging & Problem Solving:** Pinpointing complex issues and brainstorming elegant solutions 💡.
+- **Accelerated Learning & Concept Exploration:** Deepening my understanding of new technologies and architectural patterns 📚.
+- **Code Refactoring & Optimization:** Identifying areas for performance improvements and writing cleaner, more maintainable code ✨.
+This sophisticated approach allows me to focus on higher-level architectural design and complex problem-solving.
 
 ---
 
@@ -40,13 +44,13 @@ This approach allows me to focus on higher-level architectural design and comple
 
 I believe in learning by doing. Here are some of the projects I've developed to apply and expand my skills:
 
-- **[LibreShield Browser Extension](https://github.com/GlebGoodkovsky/libreshield)**
+- **[LibreShield Browser Extension](https://github.com/GlebGoodkovsky/libreshield)** 🛡️
   A security and privacy-focused content blocker for Firefox, built with JavaScript and browser APIs. It emphasizes user control and data locality.
 
-- **[Desktop Reminder App](https://github.com/GlebGoodkovsky/simple-reminder-app)**
+- **[Desktop Reminder App](https://github.com/GlebGoodkovsky/simple-reminder-app)** 🔔
   A cross-platform desktop app built with Python and Tkinter, designed with a minimalist and secure offline architecture.
 
-- **[Note-Taking Web App](https://glebgoodkovsky.github.io/my-note-app-pro/)** ([View Code](https://github.com/GlebGoodkovsky/my-note-app-pro))
+- **[Note-Taking Web App](https://glebgoodkovsky.github.io/my-note-app-pro/)** ([View Code](https://github.com/GlebGoodkovsky/my-note-app-pro)) ✍️
   A responsive front-end application built with vanilla JavaScript, leveraging a modern Vite build process and GitHub Actions for CI/CD.
 
 <!-- Will add more projects as time goes on -->
@@ -55,8 +59,10 @@ I believe in learning by doing. Here are some of the projects I've developed to 
 
 ### 📊 GitHub Activity & Stats
 
-![GlebGoodkovsky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GlebGoodkovsky&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=25)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GlebGoodkovsky&layout=compact&theme=dark&line_height=25)
+<div align="center">
+  ![GlebGoodkovsky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GlebGoodkovsky&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=25&hide_border=true&title_color=00BF00&icon_color=00BF00&text_color=E0E0E0&bg_color=0D1117)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GlebGoodkovsky&layout=compact&theme=dark&line_height=25&hide_border=true&title_color=00BF00&icon_color=00BF00&text_color=E0E0E0&bg_color=0D1117)
+</div>
 
 ---
 
@@ -66,6 +72,6 @@ I'm always open to connecting and exploring opportunities. Feel free to reach ou
 
 - **Email:** ggoodkovsky@gmail.com 📧
 - **LinkedIn:** [linkedin.com/in/gleb-goodkovsky](https://www.linkedin.com/in/gleb-goodkovsky) 🔗
-- **Full Portfolio:** Coming Soon! 🚧 <!-- This is the line we just fixed! -->
+- **Full Portfolio:** Coming Soon! 🚧
 
 ---
