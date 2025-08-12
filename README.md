@@ -23,10 +23,6 @@ I build secure, robust applications with a focus on understanding systems from t
     -   A security and privacy tool built with JavaScript and the WebExtensions API.
     -   **Links:** **[View Code](https://github.com/GlebGoodkovsky/libreshield)** | **[View on Mozilla Add-on Store](https://addons.mozilla.org/en-US/firefox/addon/libreshield/)**
 
--   **The Inquiry Collective** (In Development) ✍️
-    -   Acting as Founder and Technical Lead, architecting a secure, scalable platform for academic collaboration using modern web technologies.
-    -   **Links:** **[View Code](https://github.com/GlebGoodkovsky/the-inquiry-collective)**
-
 -   **Note-Taking Web App** 🗒️
     -   A responsive web app with a CI/CD pipeline automated by GitHub Actions.
     -   **Links:** **[View Code](https://github.com/GlebGoodkovsky/my-note-app-pro)** | **[Live Demo](https://glebgoodkovsky.github.io/my-note-app-pro/)**
