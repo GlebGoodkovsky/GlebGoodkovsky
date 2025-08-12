@@ -1,76 +1,59 @@
-# Hi there, I'm Gleb Goodkovsky 👋
+# Gleb Goodkovsky 🛡️
+### Software & Security Engineer | Founder of LibreShield
 
-Building secure, intuitive software from the system up. I'm a passionate 17-year-old developer focused on understanding how technology works from the kernel up, driving my interest in software engineering and cybersecurity. My journey through Arch Linux and various projects has cemented my hands-on approach to building robust and secure systems.
+I build secure, robust applications with a focus on understanding systems from the kernel up. My experience is grounded in a hands-on approach, from architecting projects in **Python & JavaScript** to mastering my development environment on **Arch Linux**.
 
 ---
 
-### 🛠️ Tech Stack & Workflow
+### 💼 Professional Experience
 
-Here's a glimpse into the languages, platforms, and tools that power my development:
+-   **Founder & Lead Developer** | **[LibreShield Browser Extension](https://github.com/GlebGoodkovsky/libreshield)**
+    -   Engineered and shipped a security-focused browser extension, now validated and published on the **[official Mozilla Firefox Add-on Store](https://addons.mozilla.org/en-US/firefox/addon/libreshield/)**.
+    -   Managed the full software development lifecycle, from architectural design to a successful professional review process.
 
-#### 📝 Languages
-- Python 🐍
-- JavaScript (ES6+) 🌐
-- HTML5 & CSS3 🎨
-
-#### 💻 Main Platforms & OS'
-- Linux (Arch, Fedora) 🐧
-- Windows (10, 11) 🪟
-- Git & GitHub 🐙
-
-#### ⚙️ Web Development & Productivity
-- **Node.js:** Powering modern development tools and workflows 🚀.
-- **Vite:** Leveraging for lightning-fast development with Hot Module Replacement (HMR) ⚡.
-- **GitHub Actions:** Implementing robust CI/CD pipelines for automated deployments 🧪.
-- **Development Environment:** VS Codium, VS Code, Vim & Neovim for efficient, keyboard-centric coding 💻.
-- **Automation:** Bash scripting to streamline tasks, manage systems, and automate security workflows 🚦.
-- **Knowledge Management:** Obsidian.md as my "second brain" for connecting ideas and documenting learning 🧠.
-
-#### 🧠 AI-Assisted Development
-I strategically integrate a multitude of AI models into my workflow to significantly boost efficiency and innovation. I leverage them as a powerful pair programmer for:
-- **Rapid Prototyping & Code Generation:** Quickly scaffolding initial code structures or generating boilerplate ⚡.
-- **Advanced Debugging & Problem Solving:** Pinpointing complex issues and brainstorming elegant solutions 💡.
-- **Accelerated Learning & Concept Exploration:** Deepening my understanding of new technologies and architectural patterns 📚.
-- **Code Refactoring & Optimization:** Identifying areas for performance improvements and writing cleaner, more maintainable code ✨.
-This sophisticated approach allows me to focus on higher-level architectural design and complex problem-solving.
+-   **Contract Web Developer** | **Ultima Soft**
+    -   Developing the official website for a private indie game studio under a confidentiality agreement.
+    -   Responsible for front-end implementation, UI/UX, and performance optimization.
 
 ---
 
 ### 🚀 Featured Projects
 
-I believe in learning by doing. Here are some of the projects I've developed to apply and expand my skills:
+-   **LibreShield Browser Extension** 🛡️
+    -   A security and privacy tool built with JavaScript and the WebExtensions API.
+    -   **Links:** **[View Code](https://github.com/GlebGoodkovsky/libreshield)** | **[View on Mozilla Add-on Store](https://addons.mozilla.org/en-US/firefox/addon/libreshield/)**
 
-- **[LibreShield Browser Extension](https://github.com/GlebGoodkovsky/libreshield)** 🛡️
-  A security and privacy-focused content blocker for Firefox, built with JavaScript and browser APIs. It emphasizes user control and data locality.
+-   **The Inquiry Collective** (In Development) ✍️
+    -   Acting as Founder and Technical Lead, architecting a secure, scalable platform for academic collaboration using modern web technologies.
+    -   **Links:** **[View Code](https://github.com/GlebGoodkovsky/the-inquiry-collective)**
 
-- **[Desktop Reminder App](https://github.com/GlebGoodkovsky/simple-reminder-app)** 🔔
-  A cross-platform desktop app built with Python and Tkinter, designed with a minimalist and secure offline architecture.
+-   **Note-Taking Web App** 🗒️
+    -   A responsive web app with a CI/CD pipeline automated by GitHub Actions.
+    -   **Links:** **[View Code](https://github.com/GlebGoodkovsky/my-note-app-pro)** | **[Live Demo](https://glebgoodkovsky.github.io/my-note-app-pro/)**
 
-- **[Note-Taking Web App](https://glebgoodkovsky.github.io/my-note-app-pro/)** ([View Code](https://github.com/GlebGoodkovsky/my-note-app-pro)) ✍️
-  A responsive front-end application built with vanilla JavaScript, leveraging a modern Vite build process and GitHub Actions for CI/CD.
-
-<!-- Will add more projects as time goes on -->
-
----
-<!-- these not working for some reason at the moment
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  ![GlebGoodkovsky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GlebGoodkovsky&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=25&hide_border=true&title_color=00BF00&icon_color=00BF00&text_color=E0E0E0&bg_color=0D1117)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GlebGoodkovsky&layout=compact&theme=dark&line_height=25&hide_border=true&title_color=00BF00&icon_color=00BF00&text_color=E0E0E0&bg_color=0D1117)
-  
-  <br/>
-  ![GlebGoodkovsky's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GlebGoodkovsky&theme=react-dark&hide_border=true&line=00BF00&point=FFFFFF&title_color=00BF00&area=true&bg_color=0D1117)
-</div>
+-   **Desktop Reminder App** 🔔
+    -   A secure, offline-first desktop application built with Python and Tkinter.
+    -   **Links:** **[View Code](https://github.com/GlebGoodkovsky/simple-reminder-app)**
 
 ---
--->
+
+### 🛠️ Core Tech Stack & Tools
+
+| Category              | Tools & Technologies                                                              |
+| --------------------- | --------------------------------------------------------------------------------- |
+| **Core Languages**    | `Python`, `JavaScript (ES6+)`, `HTML5`, `CSS3`                                    |
+| **Development**       | `Node.js`, `Vite`, `Git & GitHub`, `CI/CD (GitHub Actions)`                       |
+| **Systems & Security**| `Linux (Arch)`, `Bash Scripting`, `PBKDF2 Hashing`, `Privacy-First Architecture`    |
+| **Productivity**      | `VS Codium`, `Vim/Neovim`, `Obsidian.md`                                          |
+
+I leverage AI models as a strategic pair programmer, directing them to accelerate development and solve complex problems. This allows me to focus on high-level system architecture and security.
+
+---
+
 ### 📫 Let's Connect!
 
-I'm always open to connecting and exploring opportunities. Feel free to reach out!
+I'm always open to connecting and exploring opportunities.
 
-- **Email:** ggoodkovsky@gmail.com 📧
-- **LinkedIn:** [linkedin.com/in/gleb-goodkovsky](https://www.linkedin.com/in/gleb-goodkovsky) 🔗
-- **Full Portfolio:** Coming Soon! 🚧
-
----
+-   **Full Portfolio:** **[gleb-goodkovsky-portfolio.netlify.app](https://gleb-goodkovsky-portfolio.netlify.app/)** 🌐
+-   **LinkedIn:** **[linkedin.com/in/gleb-goodkovsky](https://www.linkedin.com/in/gleb-goodkovsky)** 🔗
+-   **Email:** **ggoodkovsky@gmail.com** 📧
