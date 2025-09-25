@@ -1,5 +1,5 @@
 # Gleb Goodkovsky
-### Aspiring Cybersecurity Engineer | Founder of LibreShield | Honing skills with HTB & THM | FOSS Enthusiast
+### Aspiring Cybersecurity Engineer | Founder of LibreShield | FOSS Enthusiast
 
 I am a developer driven to build secure, robust applications by understanding systems from the kernel up. My philosophy is grounded in a hands-on, builder's mindset, from architecting projects in **Python & JavaScript** to mastering my development environment on **Arch Linux**. I am actively honing my offensive and defensive security skills on platforms like **Hack The Box** and **TryHackMe.**
 
