@@ -44,19 +44,6 @@ I am a developer driven to build secure, robust applications by understanding sy
 
 ---
 
-### 🛠️ Core Tech Stack & Philosophy
-
-| Category              | Tools, Technologies & Philosophies                                                |
-| --------------------- | --------------------------------------------------------------------------------- |
-| **Core Languages**    | `Python`, `JavaScript (ES6+)`, `HTML5`, `CSS3`, `Bash`                             |
-| **DevOps & Tools**    | `Node.js`, `Vite`, `Git & GitHub`, `CI/CD (GitHub Actions)`                       |
-| **Systems & Security**| `Linux (Arch)`, `Network Fundamentals`, `PBKDF2 Hashing`, `Offensive Security (HTB/THM)` |
-| **Development Philosophy** | `AI-Assisted Workflow`, `Privacy-First Architecture`, `FOSS Contribution`     |
-
-*My development process leverages AI models as a strategic pair programmer, allowing me to direct and refine code to focus on high-level system architecture and security.*
-
----
-
 ### 📫 Connect & Collaborate
 
 I'm always open to connecting, collaborating on new projects, and discussing opportunities.
